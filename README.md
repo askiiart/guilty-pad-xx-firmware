@@ -18,3 +18,7 @@ A list of all libraries used:
 
 - Add function keys
 - Add neopixel adjustment
+
+## License
+
+This firmware is distributed under [`GPL-3.0-only`](https://spdx.org/licenses/GPL-3.0-only.html).
